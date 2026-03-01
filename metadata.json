@@ -1,0 +1,5 @@
+{
+  "name": "Namaz & Azan",
+  "description": "Приложение для отслеживания времени намаза с автоматическим озвучиванием азана.",
+  "requestFramePermissions": ["geolocation"]
+}
